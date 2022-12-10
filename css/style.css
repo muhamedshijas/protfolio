@@ -9982,3 +9982,11 @@ h6,
   padding: 0;
   list-style-type: none;
 }
+.my-qualification{
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+body{
+  max-width: 100vw;
+  overflow-x: hidden;
+}
